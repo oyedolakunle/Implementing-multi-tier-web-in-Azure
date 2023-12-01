@@ -16,8 +16,23 @@
 ## Create datanet using "az network vnet subnet create --resource-group WebtierRG --vnet-name Webvnet --name datanet --address-prefix 10.1.3.0/24
 ![create subnets](https://github.com/oyedolakunle/Implementing-multi-tier-web-in-Azure/assets/145802011/1c591e32-7617-4321-a8b9-cecbd230b7ad)
 # Open the azure portal to create the Network Security group (NSG)
+## Deploy virtual machines into the respective subnets
+### put in the same resource group created and name the machines
+### Locate the machines in East US
+### Deploy the machines into the respective sub nets
 ## Set up network security group for the three subnets
-## set the inboun and outbound security rule
+## set the inbound and outbound security rule
+![nsg inbound and outbound rules](https://github.com/oyedolakunle/Implementing-multi-tier-web-in-Azure/assets/145802011/3a87cee7-4bc2-4986-805e-02138d03a762)
+![nsg inbound rules](https://github.com/oyedolakunle/Implementing-multi-tier-web-in-Azure/assets/145802011/09514427-ef2f-4c4b-9d1d-830f8c90809f)
+![outbound rule](https://github.com/oyedolakunle/Implementing-multi-tier-web-in-Azure/assets/145802011/0d6e1aed-f22f-46e4-af06-21734cd05f5c)
+# Create public-facing Load Balancer for each subnets
+## search for load Balancer in the portal and create
+## set it so as to evenly distribute loads between the servers in order to improve application performance
+
+
+
+
+
 
 
 
