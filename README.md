@@ -25,9 +25,16 @@
 ![nsg inbound and outbound rules](https://github.com/oyedolakunle/Implementing-multi-tier-web-in-Azure/assets/145802011/3a87cee7-4bc2-4986-805e-02138d03a762)
 ![nsg inbound rules](https://github.com/oyedolakunle/Implementing-multi-tier-web-in-Azure/assets/145802011/09514427-ef2f-4c4b-9d1d-830f8c90809f)
 ![outbound rule](https://github.com/oyedolakunle/Implementing-multi-tier-web-in-Azure/assets/145802011/0d6e1aed-f22f-46e4-af06-21734cd05f5c)
-# Create public-facing Load Balancer for each subnets
+# Create public-facing Load Balancer for each subnets 
 ## search for load Balancer in the portal and create
 ## set it so as to evenly distribute loads between the servers in order to improve application performance
+![resources](https://github.com/oyedolakunle/Implementing-multi-tier-web-in-Azure/assets/145802011/c015f5b8-50e1-4913-ae9c-d5496dd7d0ba)
+![deployments;NSG,load balancer](https://github.com/oyedolakunle/Implementing-multi-tier-web-in-Azure/assets/145802011/62374871-3c44-418d-9ef4-0e8f80fcbe18)
+![visualizer](https://github.com/oyedolakunle/Implementing-multi-tier-web-in-Azure/assets/145802011/0bcf88f7-10a6-4d1f-ab4b-017ee45f3b39)
+![deployments](https://github.com/oyedolakunle/Implementing-multi-tier-web-in-Azure/assets/145802011/b9f13e23-5276-4698-b7ce-c9dcd89c20fa)
+
+
+
 
 
 
