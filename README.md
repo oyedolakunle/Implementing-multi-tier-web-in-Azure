@@ -14,7 +14,7 @@
 ![subnet 2](https://github.com/oyedolakunle/Implementing-multi-tier-web-in-Azure/assets/145802011/3caaadf9-4920-41c0-b71a-c69f7d6806dd)
 # Create an database vnet called datavnet:
 ## Create datanet using "az network vnet subnet create --resource-group WebtierRG --vnet-name threetiervnet --name datanet --address-prefix 10.1.3.0/24
-![create subnets](https://github.com/oyedolakunle/Implementing-multi-tier-web-in-Azure/assets/145802011/1c591e32-7617-4321-a8b9-cecbd230b7ad)
+![subnet 3](https://github.com/oyedolakunle/Implementing-multi-tier-web-in-Azure/assets/145802011/166988b8-f4cf-4496-bc2d-1035744a23af)
 # Open the azure portal to create the Network Security group (NSG)
 ## Deploy virtual machines into the respective subnets
 ![web vm1](https://github.com/oyedolakunle/Implementing-multi-tier-web-in-Azure/assets/145802011/59c469a9-e50a-4d4e-96e6-d8997a90fdf0)
